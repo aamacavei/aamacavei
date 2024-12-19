@@ -242,7 +242,7 @@
     <img
       decoding="async"
       loading="lazy"
-      src="https://github-readme-stats.vercel.app/api?username=macaveiAna&theme=react&count_private=true&include_all_commits=true&hide=stars&show_icons=true&line_height=30"
+      src="https://github-readme-stats.vercel.app/api?username=aamacavei&theme=react&count_private=true&include_all_commits=true&hide=stars&show_icons=true&line_height=30"
       alt="Github-README-Stats"
       width="380px"
     />
@@ -252,7 +252,7 @@
     <img
       decoding="async"
       loading="lazy"
-      src="https://github-readme-streaks-stats.vercel.app/?user=macaveiAna&theme=react&count_private=true&include_all_commits=true"
+      src="https://github-readme-streaks-stats.vercel.app/?user=aamacavei&theme=react&count_private=true&include_all_commits=true"
       alt="Github-Streak-Stats"
       width="380px"
     />
