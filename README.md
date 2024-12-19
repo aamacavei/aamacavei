@@ -1,6 +1,6 @@
 <div align="center">
   <h3>
-    <span="color:white;">Hi, I'm Adriana Macavei</span>
+    <span="color:white;">Hi, I'm Ana Macavei</span>
     <a href="https://github.com/macaveiAna">
       <img
         width="25px"
