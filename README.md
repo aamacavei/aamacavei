@@ -1,7 +1,7 @@
 <div align="center">
   <h3>
     <span="color:white;">Hi, I'm Ana Macavei</span>
-    <a href="[https://github.com/macaveiAna](https://github.com/aamacavei/aamacavei)">
+    <a href="https://github.com/aamacavei/aamacavei">
       <img
         width="25px"
         src="img/Hi.gif"
