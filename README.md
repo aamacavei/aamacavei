@@ -237,7 +237,7 @@
       />
     </a>
   </h3>
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=aamacavei&show_icons=true&theme=tokyonight)
+<!--![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=aamacavei&show_icons=true&theme=tokyonight) -->
   <a href="https://github.com/aamacavei">
     <img
       decoding="async"
