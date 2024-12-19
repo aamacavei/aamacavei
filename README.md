@@ -1,7 +1,7 @@
 <div align="center">
   <h3>
     <span="color:white;">Hi, I'm Ana Macavei</span>
-    <a href="https://github.com/aamacavei/aamacavei">
+    <a href="https://github.com/aamacavei">
       <img
         width="25px"
         src="img/Hi.gif"
@@ -17,14 +17,14 @@
 ---
 
 <h3 align="center">
-  <a href="https://github.com/macaveiAna">
+  <a href="https://github.com/aamacavei">
     <img
       src="img/coding.gif"
       width="22px"
     />
   </a>
   Tech Stack
-  <a href="https://github.com/macaveiAna">
+  <a href="https://github.com/aamacavei">
     <img
       src="img/coding.gif"
       width="22px"
@@ -223,14 +223,14 @@
 ---
 
   <h3>
-    <a href="https://github.com/macaveiAna">
+    <a href="https://github.com/aamacavei">
       <img
         src="img/stats.gif"
         width="25px"
       />
     </a>
     Github Stats
-    <a href="https://github.com/macaveiAna">
+    <a href="https://github.com/aamacavei">
       <img
         src="img/stats.gif"
         width="25px"
@@ -238,7 +238,7 @@
     </a>
   </h3>
 
-  <a href="https://github.com/macaveiAna">
+  <a href="https://github.com/aamacavei">
     <img
       decoding="async"
       loading="lazy"
@@ -248,7 +248,7 @@
     />
   </a>
 
-  <a href="https://github.com/macaveiAna">
+  <a href="https://github.com/aamacavei">
     <img
       decoding="async"
       loading="lazy"
