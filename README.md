@@ -65,6 +65,12 @@
       alt="TS"
     />
   </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/C%23-%23800080"
+      alt="C#"
+    />
+  </a>
 
 
 </p>
